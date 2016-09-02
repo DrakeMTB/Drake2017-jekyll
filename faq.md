@@ -12,7 +12,7 @@ The training starts out gradual in the late fall and increases in duration and i
 The final race schedule will be posted on the NorCal website in January.
 
 **What advice do you have for someone who is new to the sport or doesn’t know many people who ride?**  
-When the little voice in your head starts giving you reasons for not coming out to ride, ignore it, and meet us, or just push yourself out the door and get on that bike. The team is a great way to get into biking with your friends, and to make new friends. 
+When the little voice in your head starts giving you reasons for not coming out to ride, ignore it, and meet us, or just push yourself out the door and get on that bike. The team is a great way to get into biking with your friends, and to make new friends.
 
 **Are riders taught about bike safety and preparedness?**  
 Yes. Drake MTB has a team technician to assist in some mechanical issues and to provide some instruction. We also go over and enforce proper road use including lane positioning, signage, and group formation.
@@ -71,7 +71,7 @@ Drake MTB is sponsored exclusively by Sunshine Bicycle Center in Fairfax. They h
 See Race Day and Travel link on the top menu [insert link here].  Riders and their families are entirely responsible for transportation to and from races. As a matter of policy, Drake MTB staff may not carry riders to or from races. The NorCal League usually publicizes accommodations near the races should you decide to stay the night. Many families look for places to camp.
 
 **Minimum Team Requirements**  
-Attend at least two Team Rides a week. We take attendance before every practice. Participate in at least three races during the season.  See Eligibility and Team Rides for additional details [insert Eligibility and Practices links here]. 
+Attend at least two Team Rides a week. We take attendance before every practice. Participate in at least three races during the season.  See Eligibility and Team Rides for additional details [insert Eligibility and Practices links here].
 
 **How do we find out about last-minute ride changes?**  
 Schedule changes and meeting locations will be communicated by email. If there is a last minute cancellation due to inclement weather, Coaches will notify the riders via text message

@@ -6,8 +6,8 @@ permalink: /riders/
 # Riders
 
 **Why we ride**  
-We ride because we love spending five to ten hours a week on a bike, hanging out with friends, and competing against other racers.  We love pushing the limits of our endurance out in some of the best scenery on the planet, and we understand that part of our attraction to the sport comes from it being more physically dangerous and challenging than sitting in front of a video game. 
- 
+We ride because we love spending five to ten hours a week on a bike, hanging out with friends, and competing against other racers.  We love pushing the limits of our endurance out in some of the best scenery on the planet, and we understand that part of our attraction to the sport comes from it being more physically dangerous and challenging than sitting in front of a video game.
+
 **What we race**  
 We race in a category of mountain biking called cross-country.  From Wikipedia:  
 
@@ -41,8 +41,8 @@ There should be nothing but support between all riders regardless of skill level
 
 **7. Show trail courtesy – be the Spirit of Howdy!! (See <http://www.spiritofhowdy.org> for more information)**  
 When riding on Public Lands please keep the following in mind:
- 
- * Always yield right of way to other users 
+
+ * Always yield right of way to other users
  * Respect other trail user groups
  * Control your speed
  * Do not litter
@@ -62,8 +62,8 @@ The trails we ride only exist because of the efforts of folks that have built th
 12. **Volunteer for local groups and events**  
 Drake MTB is an important part of the local community, and our voice and numbers carry weight in the communities where we live.  Whether being active with MCBC, going to meetings on Marin open-space usage, or getting information out to the team on which local politicians support the team’s trail access agenda, each Rider and family member can have lasting local impact.
 13. **Familiarize yourself with NICA rulebook**  
-The NICA rulebook contains a great deal of information, and reading it helps parents and Riders understand the need for some of the team rules above, how the races are run and scored, and a host of other rules and regulations that are helping high-school mountain biking grow into a mainstream sport: http://www.nationalmtb.org/wp-content/uploads/NICA-Rulebook.pdf 
+The NICA rulebook contains a great deal of information, and reading it helps parents and Riders understand the need for some of the team rules above, how the races are run and scored, and a host of other rules and regulations that are helping high-school mountain biking grow into a mainstream sport: http://www.nationalmtb.org/wp-content/uploads/NICA-Rulebook.pdf
 14. **Have FUN!**  
-Mountain biking is one of the best sports there is. It is excellent low-impact aerobic exercise that you can do for a lifetime. You can cover more ground and see more cool stuff than with any other sport – at least that is the belief of the team! 
+Mountain biking is one of the best sports there is. It is excellent low-impact aerobic exercise that you can do for a lifetime. You can cover more ground and see more cool stuff than with any other sport – at least that is the belief of the team!
 
 **We are a PEANUT-FREE TEAM, so no foods with peanut ingredients or peanut-flavor energy bars. Please check ingredients of the foods you are bringing.**

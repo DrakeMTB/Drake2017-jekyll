@@ -57,4 +57,4 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
  * LiveScan
  * Complete W-4 tax form and return to Tam District HR
 
-<http://www.nationalmtb.org/coaches-license-program/> 
+<http://www.nationalmtb.org/coaches-license-program/>
