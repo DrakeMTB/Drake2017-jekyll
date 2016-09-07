@@ -12,29 +12,29 @@ permalink: /races/
 
 *******
 
-# Race Day Info [Comming Soon](http://google.com)
+# Race Day Info [Coming Soon](http://google.com)
 
-## Where to Stay... (Don't forget to book early [Comming Soon](http://google.com)  
+## Where to Stay... (Don't forget to book early [Coming Soon](http://google.com)  
 
 ## What to Bring... [Race Kit contents]({{site.baseurl}}/images/race_kit.pdf)  
 
 ## What to Wear...[Think about the weather]({{site.baseurl}}/images/what_to_wear_v2.pdf)  
 
-## Volunteer Sign Up Sheet [Comming Soon](http://google.com)  
+## Volunteer Sign Up Sheet [Coming Soon](http://google.com)  
 
 # Race Day schedules
 
- * Varsity Girls [Comming Soon](http://google.com)
- * JV Girls [Comming Soon](http://google.com)
- * Sophomore Girls [Comming Soon](http://google.com)
- * Frosh Girls [Comming Soon](http://google.com)
+ * Varsity Girls [Coming Soon](http://google.com)
+ * JV Girls [Coming Soon](http://google.com)
+ * Sophomore Girls [Coming Soon](http://google.com)
+ * Frosh Girls [Coming Soon](http://google.com)
 
 ******
 
-* Varsity Boys [Comming Soon](http://google.com)
-* JV Boys [Comming Soon](http://google.com)
-* Sophomore Boys [Comming Soon](http://google.com)
-* Frosh Boys [Comming Soon](http://google.com)
+* Varsity Boys [Coming Soon](http://google.com)
+* JV Boys [Coming Soon](http://google.com)
+* Sophomore Boys [Coming Soon](http://google.com)
+* Frosh Boys [Coming Soon](http://google.com)
 
 ******
 
