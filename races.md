@@ -15,8 +15,11 @@ permalink: /races/
 # Race Day Info [Comming Soon](http://google.com)
 
 ## Where to Stay... (Don't forget to book early0 [Comming Soon](http://google.com)
+
 ## What to Bring... [Race Kit contents]({{site.baseurl}}/images/race_kit.pdf)
+
 ## What to Wear...[Think about the weather]({{site.baseurl}}/images/what_to_wear_v2.pdf)
+
 ## Volunteer Sign Up Sheet [Comming Soon](http://google.com)
 
 # Race Day schedules
