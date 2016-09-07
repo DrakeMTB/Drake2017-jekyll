@@ -5,6 +5,10 @@ permalink: /riders/
 ---
 # Riders
 
+[Team Calendar]({{site.baseurl}}/calendar)
+
+[What to Wear]({{site.baseurl}}/images/what_to_wear_v2.pdf) Being prepared for a ride = a great ride!
+
 **Why we ride**  
 We ride because we love spending five to ten hours a week on a bike, hanging out with friends, and competing against other racers.  We love pushing the limits of our endurance out in some of the best scenery on the planet, and we understand that part of our attraction to the sport comes from it being more physically dangerous and challenging than sitting in front of a video game.
 

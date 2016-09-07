@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Drake MTB Divas
+title: Drake MTB Girls Team
 permalink: /girls/
 ---
 
-![drake divas group](../images/divas_group.png)
+![drake girls group](../images/girls_group.png)
 
 #### Stella Greeenwood - sophmore
 

@@ -10,8 +10,8 @@ Being a mountain bike parent can be an amazing way to connect with other parents
 The Drake Mountain Bike Team is a club sport, which means that the team cannot function without volunteer labor and support, most of which comes from you, the Parents.  At a minimum, **we ask that parents do the following:**
 
  * Take care of Mandatory Drake MTB forms and fees (see links and deadlines below)
- *  Assure that your Rider agrees to the Team Commitments and Eligibility requirements [insert Eligibility link here],
- *  Make sure that your Rider wears the proper clothing on training rides [insert what-to-wear link here].  
+ *  Assure that your Rider agrees to the Team Commitments and [Eligibility requirements]({{site.baseurl}}/eligibility),
+ *  Make sure that your Rider wears [the proper clothing on training rides]({{site.baseurl}}/images/what_to_wear_v2.pdf).  
 
 
 **Mandatory Parent List: Without timely attention to these items, your Rider cannot train with the team or participate in the races.**

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Volunteers Give Back!
-permalink: /volunteers/
+permalink: /volunteer/
 ---
 **Volunteer for the Pit Zone**
 
