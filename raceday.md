@@ -13,7 +13,7 @@ Describing a high school mountain bike race in words is impossible, but in 2016 
 
 **What do our Riders say?**
 
- * [DrakeGirls  Girl Riders on the Drake Team tell it like it is at Fort Ord 2016](https://www.youtube.com/watch?v=jVMlhFWBko0)
+ * [DrakeGirls  Girl Riders on the Drake Team tell it like it is at Fort Ord 2016](https://www.youtube.com/watch?v=YUfSNj7cHpQ)
  * [Freshman Boys  The New Guys talk about racing at Laguna Seca 2016](https://www.youtube.com/watch?v=-oozGRhEk1E)
  * [Drake Sophomore Boys  This tight group of friends knows how to ride with a smile at Granite Bay 2016](https://www.youtube.com/watch?v=jVMlhFWBko0)
  * [JV and Varsity boys talk about longer races at Petaluma 2016…](https://www.youtube.com/watch?v=moe36leZhhk)  #sufferfest!

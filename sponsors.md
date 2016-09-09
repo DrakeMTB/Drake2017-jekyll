@@ -34,7 +34,7 @@ Phone# (415)-492-2020
 
 ***
 
-[![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com>)
+[![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com)
 
 Nationwide Commercial Equipment Financing<br>
 Direct Financing Division<br>
@@ -118,7 +118,7 @@ Phone# (415) 256-1316<br>
 
 ***
 
-[![logo](../images/iron-springs.png)](http://www.ironspringpub.com)
+[![logo](../images/iron-springs.png)](http://ironspringspub.com)
 
 ***
 **In Memory of Jim Miller**<br>

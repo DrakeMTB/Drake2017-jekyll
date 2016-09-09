@@ -18,7 +18,7 @@ Shot bloks, Gu chomps, gels, powders are all manufactured food. Eating too much 
 #  We are a peanut-free team!
 **Please** do **not** bring peanut products or food containing peanuts on rides or to races.
 
-**Longer training ride (3+ hours, or a typical Sunday ride)**
+# Longer training ride (3+ hours, or a typical Sunday ride)**
 **Eat a breakfast** that includes protein, carbohydrates and fat, like:  
 
  * Oatmeal with berries, yogurt, banana
@@ -64,7 +64,7 @@ Hydrate hydrate hydrate
 You have a 30-minute window to consume 20 to 30 grams of protein (girls need more than boys). See above for details.
 
 
-**Race day**  
+# Race day 
 Think of it the same as a longer training ride with some changes:
 
 

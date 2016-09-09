@@ -4,19 +4,15 @@ title: Race and travel
 permalink: /races/
 ---
 
-# NOTE: Check back this page will change often
-
-# [Race Calendar]({{site.baseurl}}/calendar)
-
 ## [What Does a typical Race Day Look Like?]({{site.baseurl}}/raceday)
 
 *******
 
-# Race Day Info [Coming Soon](http://google.com)
+## Race Day Info [HERE]({{site.baseurl}}/raceday)
 
-## Where to Stay... (Don't forget to book early [Coming Soon](http://google.com)  
+## Where to Stay... (Don't forget to book early) [Coming Soon](http://google.com)  
 
-## What to Bring... [Race Kit contents]({{site.baseurl}}/images/race_kit.pdf)  
+## What to Bring... [Race Kit contents]({{site.baseurl}}/images/what_to_bring.jpg)  
 
 ## What to Wear...[Think about the weather]({{site.baseurl}}/images/what_to_wear_v2.pdf)  
 

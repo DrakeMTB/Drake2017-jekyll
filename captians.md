@@ -11,17 +11,17 @@ The Drake team captains provide on-the-trail and on-campus leadership for a team
 
 #### Marya Smith
 
-My name is **Marya Smith** and I will be a Senior this year at Drake! This will be my second year as a varsity rider. 
+My name is **Marya Smith** and I will be a Senior this year at Drake! This will be my second year as a varsity rider.
 
-Growing up at the foot of Mt. Tam and Fairfax, I couldn’t wait to get my bike on the mountain from the second I took off the training wheels. Growing up just riding with my dad and then going to bike camps in the summer I was eager to start up on the team when I got to Drake. Even while being a little hesitant and nervous about the racing in the beginning, I decided why not be different and try something new! (Also the sport was in desperate need of some girl power). 
+Growing up at the foot of Mt. Tam and Fairfax, I couldn’t wait to get my bike on the mountain from the second I took off the training wheels. Growing up just riding with my dad and then going to bike camps in the summer I was eager to start up on the team when I got to Drake. Even while being a little hesitant and nervous about the racing in the beginning, I decided why not be different and try something new! (Also the sport was in desperate need of some girl power).
 
-Over the years I have grown to become a more skilled rider as well as develop a strong understanding of the team and our strengths and weaknesses as a whole. 
+Over the years I have grown to become a more skilled rider as well as develop a strong understanding of the team and our strengths and weaknesses as a whole.
 
-As a captain, I strive to serve as a role model to younger riders (especially for the small number of girls on the team!) and help build a strong and supportive community that motivates and encourages riders to work hard at practice and races but also have lots and lots of fun! 
+As a captain, I strive to serve as a role model to younger riders (especially for the small number of girls on the team!) and help build a strong and supportive community that motivates and encourages riders to work hard at practice and races but also have lots and lots of fun!
 
 Mountain biking is not only an awesome group of kids but an even better sport that encompasses both my love for the outdoors, being active, and chit chatting away with my friends! Biking will forever be a part of my life and I can't wait to see where it takes me! Go pirates!
 
-#### Walend Reed
+#### Walden Reed
 
 My name is **Walden Reed** and I am a Senior and Varsity Rider.
 When I moved to California at the beginning of freshman year I wanted to become a mountain biker. I love airplanes and things that move fast... I really like going fast. Over the last 3 years of biking, I worked hard and became fast on a bike. I don't talk much, but I like helping others, so please reach out to me if you have any questions :)
@@ -48,7 +48,7 @@ One of the most difficult aspects of building team cohesiveness is finding time 
 
 **Captains and #DrakeMTBGirls**  
 Getting more girls on the Drake team is a mission-critical initiative for many reasons.  Mountain biking is a gender-neutral activity, but the sport is still heavily skewed towards male.  When the composition of the team reflects the general demographics of Drake High School, then we can consider #DrakeMTBGirls a success, and shorten the hashtag to #DrakeMTB.  Until then, all of the captains have a responsibility to recruit, retain, and promote girls on the team so that girls see it as an activity that they own, vs one that is “boys only”.  Activities include appropriate social media postings (see example below), organizing rides with younger female riders, having girls-only rides at least once a month (in lieu of a regular Tuesday/Thursday/Sunday team ride), and having at least one girls-only Drake MTB social event.
- 
+
 **Example of an “appropriate social media posting”**
 
 And finally, it is always good to check in with Title IX: “No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving federal financial assistance.”

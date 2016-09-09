@@ -28,10 +28,6 @@ layout: default
 
   <br><br><br>
 
-  {% if page.image %}
-  <img src="{{BASE_PATH}}../images/{{page.image}}" />
-  {% endif %}
-
 <!--<div class="w3-container">
 
       {% if page.image %}
@@ -40,6 +36,11 @@ layout: default
   <p>
 -->
 <h2 class="w3-padding w3-white"></h2>
+
+
+{% if page.image %}
+<img src="{{BASE_PATH}}../images/{{page.image}}" />
+{% endif %}
 
 <div class="w3-content" style="position:relative">
   {{ content }}

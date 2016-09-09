@@ -3,4 +3,5 @@ layout: page
 title: Latest News!
 permalink: /news/
 ---
-some news info here
+# Come Join Us At Drake Club day!
+September 9th ! Look for the team!

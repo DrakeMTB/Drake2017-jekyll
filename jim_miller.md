@@ -22,8 +22,8 @@ Note in the Memo line: For "Jim Miller Memorial Fund.”
 Mail to:<br>
 Drake MTB<br>
 c/o Philip Nicol<br>
-60 Cordone Drive<br>
-San Anselmo, CA 94960
+P.O. Box 495<br>
+San Anselmo, CA 94979
 
 Thank you for your contribution.
 
